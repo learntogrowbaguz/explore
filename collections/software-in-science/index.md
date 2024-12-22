@@ -13,10 +13,10 @@ items:
  - ipython/ipython
  - ropensci-archive/rplos
  - LaurentRDC/scikit-ued
- - sagemath/sage
+ - sagemath/sage-archive-2023-02-01
  - gap-system/gap
  - Singular/Singular
- - fredrik-johansson/arb
+ - flintlib/arb
  - broadinstitute/picard
  - markusschanta/awesome-jupyter
  - ropensci-archive/rplos

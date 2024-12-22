@@ -13,7 +13,6 @@ items:
  - capistrano/capistrano
  - statsd/statsd
  - graphite-project/graphite-web
- - elastic/logstash
  - prometheus/prometheus
  - fabric/fabric
  - grafana/grafana
@@ -32,7 +31,7 @@ items:
  - apache/mesos
  - SeleniumHQ/selenium
  - opendiffy/diffy
- - harness/drone
+ - harness/harness
  - hashicorp/vault
  - NagiosEnterprises/nagioscore
  - zabbix/zabbix

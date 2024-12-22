@@ -1,11 +1,10 @@
 ---
 items:
  - fastify/fastify
- - immuni-app/immuni
+ - immuni-app/.github
  - italia/covid19-opendata-vaccini
  - middyjs/middy
  - nodejs/undici
- - elastic/elasticsearch-js
  - morrolinux/simple-ehm
  - micheleriva/coronablocker
  - HospitalRun/hospitalrun
@@ -14,7 +13,7 @@ items:
  - notable/notable
  - espanso/espanso
  - eciavatta/caronte
- - Schrodinger-Hat/ImageGoNord
+ - Schroedinger-Hat/ImageGoNord-Web
  - stoplightio/prism
  - ercole-io/ercole
 display_name: Made in Italy
